@@ -1,0 +1,10 @@
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\bin\Debug\nSpireTestPrep.exe.config
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\bin\Debug\nSpireTestPrep.exe
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\bin\Debug\nSpireTestPrep.pdb
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\obj\Debug\nSpireTestPrep.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\obj\Debug\nSpireTestPrep.MainWindow.resources
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\obj\Debug\nSpireTestPrep.Properties.Resources.resources
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\obj\Debug\nSpireTestPrep.csproj.GenerateResource.Cache
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\obj\Debug\nSpireTestPrep.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\obj\Debug\nSpireTestPrep.exe
+C:\Users\Antoine\source\repos\nSpireTestPrepLegacy\nSpireTestPrep\obj\Debug\nSpireTestPrep.pdb
